@@ -1,0 +1,476 @@
+{
+  "_readme": "Edit any text here; the site reads this file at load time. 'en' and 'fr' must keep the same structure. Project 'type' can be VR, AR, AI or WEB (others show in grey). Hobby 'icon' can be swim, film, game, music, book, code or star.",
+  "meta": {
+    "name": "Orsowen Ben Abdallah",
+    "firstName": "ORSOWEN",
+    "lastName": "BEN ABDALLAH",
+    "photo": "assets/photo.jpg",
+    "email": "OrsowenBenAbdallah5@gmail.com",
+    "linkedin": "https://www.linkedin.com/in/orsowenbenabdallah",
+    "github": "https://github.com/orsowen",
+    "githubHandle": "/orsowen"
+  },
+  "skills": [
+    "Unity",
+    "C#",
+    "Python",
+    "FastAPI",
+    "Node.js",
+    "React",
+    "PyTorch",
+    "TensorFlow",
+    "Docker",
+    "Blender"
+  ],
+  "certifications": [
+    "CCNA: Introduction to Networks",
+    "CCNA: Switching, Routing & Wireless Essentials",
+    "GitHub Foundations"
+  ],
+  "bootLines": [
+    {
+      "text": "OB SYSTEM v1.0",
+      "status": ""
+    },
+    {
+      "text": "CHECKING VR MODULE... ",
+      "status": "OK"
+    },
+    {
+      "text": "LOADING AI CORE... ",
+      "status": "OK"
+    },
+    {
+      "text": "MOUNTING PORTFOLIO... ",
+      "status": "OK"
+    }
+  ],
+  "en": {
+    "screenTitles": [
+      "",
+      "PROFILE",
+      "EDUCATION",
+      "EXPERIENCE",
+      "PROJECTS",
+      "HOBBIES",
+      "CONTACT"
+    ],
+    "navigationHint": "◀ ▶ arrows, keys or swipe",
+    "stageLabel": "STAGE",
+    "profile": {
+      "playerTag": "PLAYER 1",
+      "location": "Tunisia",
+      "role": "Computer & Multimedia Engineer",
+      "specialties": "VR / AR · AI · Backend Dev",
+      "description": "Passionate about technology and programming, I am always looking to learn, innovate and build efficient solutions.",
+      "skillsTitle": "LOADOUT"
+    },
+    "education": [
+      {
+        "years": "2023 – 2026",
+        "title": "Engineering degree, Computer Science & Multimedia",
+        "place": "ISAMM, Manouba, Tunisia",
+        "note": "Final-year project graded Excellent (18.5/20)."
+      },
+      {
+        "years": "2020 – 2023",
+        "title": "Bachelor's in Computer Science, Big Data & Data Analysis",
+        "place": "ISAMM, Manouba, Tunisia",
+        "note": "Final-year project graded Very Good (16.5/20)."
+      },
+      {
+        "years": "2020",
+        "title": "Baccalaureate in Technical Sciences",
+        "place": "Lycée Ibn Abi Dhief, Tunisia",
+        "note": ""
+      }
+    ],
+    "certificationsTitle": "BADGES",
+    "experience": [
+      {
+        "company": "UTTOP",
+        "dates": "Mar – Jul 2026",
+        "place": "Tarbes, France",
+        "role": "VR/AR assembly training environment (final-year project)",
+        "bullets": [
+          "Data pipeline turning industrial data (CSV, JSON, Excel, robot logs) into auto-generated VR/AR scenes for Meta Quest 3.",
+          "Unity VR/AR runtime to replay multi-robot assembly, plus real-time control of a robot arm over OPC UA."
+        ],
+        "tools": [
+          "Python",
+          "FastAPI",
+          "Unity",
+          "C#",
+          "OPC UA",
+          "Docker",
+          "Pandas",
+          "Blender"
+        ]
+      },
+      {
+        "company": "InstAR",
+        "dates": "Sep 2025",
+        "place": "Tunisia",
+        "role": "VR showroom for suppliers (summer internship)",
+        "bullets": [
+          "Interactive Unity showroom for Meta Quest 3.",
+          "Price display and furniture texture customisation."
+        ],
+        "tools": [
+          "Unity",
+          "C#",
+          "Meta Quest 3"
+        ]
+      },
+      {
+        "company": "dezoo",
+        "dates": "Jul 2025",
+        "place": "Tunisia",
+        "role": "Functional testing & software traceability (summer internship)",
+        "bullets": [
+          "Functional testing of a website.",
+          "Bidirectional traceability matrix between requirements and tests."
+        ],
+        "tools": [
+          "Excel",
+          "Trello"
+        ]
+      },
+      {
+        "company": "ALL Circuits",
+        "dates": "Jul 2024",
+        "place": "Tunisia",
+        "role": "Industrial management & traceability platform (summer internship)",
+        "bullets": [
+          "Structured interface to track clients, products, stock movements and raw materials."
+        ],
+        "tools": [
+          "ASP.NET MVC",
+          "SQL Server",
+          "C#"
+        ]
+      },
+      {
+        "company": "CYTEKIA",
+        "dates": "Mar – Jun 2023",
+        "place": "Tunisia",
+        "role": "Cybersecurity risk & vulnerability platform (bachelor's final project)",
+        "bullets": [
+          "Assess, monitor and reduce risks across an organisation's digital infrastructure, with K-means clustering."
+        ],
+        "tools": [
+          "React",
+          "Node.js",
+          "Express",
+          "MongoDB",
+          "FastAPI",
+          "Python",
+          "ISO / NIST",
+          "ML"
+        ]
+      }
+    ],
+    "projects": [
+      {
+        "type": "VR",
+        "year": "2026",
+        "title": "Sands of Time",
+        "description": "Immersive VR time-travel experience about regenerating a desert oasis. What you do in the past changes the future environment.",
+        "tools": [
+          "Unity",
+          "Blender",
+          "C#"
+        ]
+      },
+      {
+        "type": "AR",
+        "year": "2026",
+        "title": "Waste Collection AR",
+        "description": "Augmented reality experience about waste collection and interactive environmental learning.",
+        "tools": [
+          "Unity",
+          "C#",
+          "AR"
+        ]
+      },
+      {
+        "type": "AI",
+        "year": "2025",
+        "title": "Medical Report OCR",
+        "description": "FastAPI backend and MongoDB layer that process and store OCR results from medical report forms, served to a mobile app and a web platform.",
+        "tools": [
+          "Python",
+          "FastAPI",
+          "EasyOCR",
+          "MongoDB",
+          "React Native"
+        ]
+      },
+      {
+        "type": "AI",
+        "year": "2026",
+        "title": "Intelligent Educational Platform",
+        "description": "Platform with facial recognition login, course uploads and a RAG-based AI assistant for students, plus test creation and results tracking for teachers.",
+        "tools": [
+          "React.js",
+          "Node.js",
+          "Python",
+          "FastAPI",
+          "MongoDB",
+          "RAG",
+          "Facial Recognition"
+        ]
+      },
+      {
+        "type": "WEB",
+        "year": "2026",
+        "title": "Engineering Path Platform",
+        "description": "Central platform for engineering students' internships, projects, courses and skills, with a RAG assistant.",
+        "tools": [
+          "Node.js",
+          "React",
+          "Tailwind",
+          "MongoDB",
+          "RAG",
+          "FastAPI"
+        ]
+      }
+    ],
+    "moreProjectsLink": "More on GitHub ▸",
+    "hobbiesIntro": "When the computer is off:",
+    "hobbies": [
+      {
+        "icon": "swim",
+        "title": "Swimming",
+        "text": "Time in the water"
+      },
+      {
+        "icon": "film",
+        "title": "Cinema",
+        "text": "Films and storytelling"
+      }
+    ],
+    "contact": {
+      "title": "LET'S CONNECT",
+      "subtitle": "Open to new opportunities.",
+      "copy": "COPY",
+      "copied": "COPIED",
+      "thanks": "THANKS FOR PLAYING",
+      "playAgain": "↺ PLAY AGAIN"
+    }
+  },
+  "fr": {
+    "screenTitles": [
+      "",
+      "PROFIL",
+      "FORMATION",
+      "EXPÉRIENCE",
+      "PROJETS",
+      "LOISIRS",
+      "CONTACT"
+    ],
+    "navigationHint": "◀ ▶ flèches, clavier ou glisser",
+    "stageLabel": "NIVEAU",
+    "profile": {
+      "playerTag": "JOUEUR 1",
+      "location": "Tunisie",
+      "role": "Ingénieur Informatique et Multimédia",
+      "specialties": "VR / AR · IA · Dev Backend",
+      "description": "Passionné par la technologie et la programmation, je cherche constamment à apprendre, innover et développer des solutions efficaces.",
+      "skillsTitle": "ÉQUIPEMENT"
+    },
+    "education": [
+      {
+        "years": "2023 – 2026",
+        "title": "Diplôme d'Ingénieur en Informatique et Multimédia",
+        "place": "ISAMM, Manouba, Tunisie",
+        "note": "PFE mention Excellent (18,5/20)."
+      },
+      {
+        "years": "2020 – 2023",
+        "title": "Licence en Informatique, Big Data et Analyse de Données",
+        "place": "ISAMM, Manouba, Tunisie",
+        "note": "PFE mention Très bien (16,5/20)."
+      },
+      {
+        "years": "2020",
+        "title": "Baccalauréat Sciences Techniques",
+        "place": "Lycée Ibn Abi Dhief, Tunisie",
+        "note": ""
+      }
+    ],
+    "certificationsTitle": "BADGES",
+    "experience": [
+      {
+        "company": "UTTOP",
+        "dates": "Mars – Juil. 2026",
+        "place": "Tarbes, France",
+        "role": "Environnement de formation à l'assemblage en VR/AR (PFE)",
+        "bullets": [
+          "Pipeline de données transformant des données industrielles (CSV, JSON, Excel, journaux de robot) en scènes VR/AR générées automatiquement pour Meta Quest 3.",
+          "Runtime Unity VR/AR pour rejouer des assemblages multi-robots, et contrôle temps réel d'un bras robotique via OPC UA."
+        ],
+        "tools": [
+          "Python",
+          "FastAPI",
+          "Unity",
+          "C#",
+          "OPC UA",
+          "Docker",
+          "Pandas",
+          "Blender"
+        ]
+      },
+      {
+        "company": "InstAR",
+        "dates": "Sept. 2025",
+        "place": "Tunisie",
+        "role": "Showroom VR pour fournisseurs (stage d'été)",
+        "bullets": [
+          "Showroom interactif sous Unity pour Meta Quest 3.",
+          "Affichage des prix et personnalisation des textures de mobilier."
+        ],
+        "tools": [
+          "Unity",
+          "C#",
+          "Meta Quest 3"
+        ]
+      },
+      {
+        "company": "dezoo",
+        "dates": "Juil. 2025",
+        "place": "Tunisie",
+        "role": "Tests fonctionnels et traçabilité logicielle (stage d'été)",
+        "bullets": [
+          "Tests fonctionnels d'un site web.",
+          "Matrice de traçabilité bidirectionnelle entre exigences et tests."
+        ],
+        "tools": [
+          "Excel",
+          "Trello"
+        ]
+      },
+      {
+        "company": "ALL Circuits",
+        "dates": "Juil. 2024",
+        "place": "Tunisie",
+        "role": "Plateforme de gestion et de traçabilité industrielle (stage d'été)",
+        "bullets": [
+          "Interface structurée pour le suivi des clients, produits, mouvements et matières premières."
+        ],
+        "tools": [
+          "ASP.NET MVC",
+          "SQL Server",
+          "C#"
+        ]
+      },
+      {
+        "company": "CYTEKIA",
+        "dates": "Mars – Juin 2023",
+        "place": "Tunisie",
+        "role": "Plateforme de gestion des risques cybersécurité (PFE de licence)",
+        "bullets": [
+          "Évaluer, surveiller et réduire les risques et vulnérabilités de l'infrastructure numérique d'une organisation, avec du clustering K-means."
+        ],
+        "tools": [
+          "React",
+          "Node.js",
+          "Express",
+          "MongoDB",
+          "FastAPI",
+          "Python",
+          "ISO / NIST",
+          "ML"
+        ]
+      }
+    ],
+    "projects": [
+      {
+        "type": "VR",
+        "year": "2026",
+        "title": "Sands of Time",
+        "description": "Expérience VR immersive de voyage dans le temps : régénérer une oasis désertique. Les choix faits dans le passé changent l'environnement futur.",
+        "tools": [
+          "Unity",
+          "Blender",
+          "C#"
+        ]
+      },
+      {
+        "type": "AR",
+        "year": "2026",
+        "title": "Collecte des déchets AR",
+        "description": "Expérience de réalité augmentée sur la collecte des déchets et l'apprentissage interactif de l'environnement.",
+        "tools": [
+          "Unity",
+          "C#",
+          "AR"
+        ]
+      },
+      {
+        "type": "AI",
+        "year": "2025",
+        "title": "OCR de comptes rendus médicaux",
+        "description": "API FastAPI et base MongoDB qui traitent et stockent les résultats OCR de formulaires médicaux, pour une app mobile et une plateforme web.",
+        "tools": [
+          "Python",
+          "FastAPI",
+          "EasyOCR",
+          "MongoDB",
+          "React Native"
+        ]
+      },
+      {
+        "type": "AI",
+        "year": "2026",
+        "title": "Plateforme éducative intelligente",
+        "description": "Plateforme avec connexion par reconnaissance faciale, dépôt de cours et assistant IA basé sur le RAG pour les étudiants, ainsi que création de tests et suivi des résultats pour les enseignants.",
+        "tools": [
+          "React.js",
+          "Node.js",
+          "Python",
+          "FastAPI",
+          "MongoDB",
+          "RAG",
+          "Reconnaissance faciale"
+        ]
+      },
+      {
+        "type": "WEB",
+        "year": "2026",
+        "title": "Plateforme parcours ingénieur",
+        "description": "Plateforme centralisée pour le parcours des étudiants ingénieurs : stages, projets, cours et compétences, avec un assistant RAG.",
+        "tools": [
+          "Node.js",
+          "React",
+          "Tailwind",
+          "MongoDB",
+          "RAG",
+          "FastAPI"
+        ]
+      }
+    ],
+    "moreProjectsLink": "Plus sur GitHub ▸",
+    "hobbiesIntro": "Quand l'ordinateur est éteint :",
+    "hobbies": [
+      {
+        "icon": "swim",
+        "title": "Natation",
+        "text": "Du temps dans l'eau"
+      },
+      {
+        "icon": "film",
+        "title": "Cinéma",
+        "text": "Films et narration"
+      }
+    ],
+    "contact": {
+      "title": "RESTONS EN CONTACT",
+      "subtitle": "Ouvert aux nouvelles opportunités.",
+      "copy": "COPIER",
+      "copied": "COPIÉ",
+      "thanks": "MERCI D'AVOIR JOUÉ",
+      "playAgain": "↺ REJOUER"
+    }
+  }
+}
