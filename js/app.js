@@ -42,7 +42,7 @@ const SAVER = (() => {
   setInterval(() => {
     if (on || !booted || busy || !tvOn || !consoleOn) return;
     const ok = mode === "home" || mode === "portfolio" || (mode === "game" && GAME.idleOK());
-    if (ok && performance.now() - lastInput > 5000) show();
+    if (ok && performance.now() - lastInput > 15000) show();
   }, 400);
   return { hide };
 })();
